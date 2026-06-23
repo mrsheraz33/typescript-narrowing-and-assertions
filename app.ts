@@ -31,6 +31,5 @@ console.log(input);
 
 const link = document.querySelector("#link") as HTMLAnchorElement
 link.href = "https://google.com"
-console.log(input);
 
 export {}
