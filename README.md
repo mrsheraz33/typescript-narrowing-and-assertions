@@ -64,4 +64,4 @@ This repository is part of my TypeScript learning journey and contains examples 
 
 ## Author
 
-Muhammad Sheaz | Full Stack Web Developer
+Muhammad Sheraz | Full Stack Web Developer
